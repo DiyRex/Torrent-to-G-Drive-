@@ -5,7 +5,7 @@
 <p>&nbsp;</p>
 <ul>
 <li>
-<h1>Click on the "Open in Colab" button and press ctrl+f9</h1>
+<h1>Click on the "Open in Colab" button and press ctrl+F9</h1>
 </li>
 </ul>
 <ul>
